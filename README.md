@@ -38,7 +38,7 @@ CodeWars: [https://www.codewars.com/](https://www.codewars.com/)
 ## Notes
 
 - Points earned are based on completed challenges.
-- Some points may be automatically awarded by CodeWars for ranking up or other activities.
-- This submission confirms completion of the required **150 pre-selected points**.
+- Some points may be automatically awarded by CodeWars for ranking up or other activities that was done.
+- This submission confirms completion of the required **150 pre-selected points** of the tasks.
 
-**Status:** ✔ Assignment requirement met (150 points)
+**Status:** ✔ Assignment requirement met (150 points). 
